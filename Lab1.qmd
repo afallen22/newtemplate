@@ -1,0 +1,11 @@
+---
+title: "SDS192 Lab 1"
+author: Section 2 - Amalia ALlen
+output:
+  html_document
+---
+
+1. ====Amalia Allen.===
+2. Save the document by clicking the Save button above. 
+3. Return to Lab 1 instructions to learn how to commit and push you code.
+4. Fill out this week's reflections Google form to receive credit.
